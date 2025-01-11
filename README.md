@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... cybersecurity and pentesting
 - 🌱 I’m currently learning ...python and linux 
 - 💞️ I’m looking to collaborate on ...basic projects 
-- 📫 How to reach me ...depens via a bus ,train or a walk  
+- 📫 How to reach me ...depends via a bus ,train or a walk  
 - 😄 Pronouns: ...try/catch
 - ⚡ Fun fact: ...github cat is envious of schrodingers's cat
 
